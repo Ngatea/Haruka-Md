@@ -6,7 +6,7 @@
     "footer": "DAFA - JB BOTZ",
     "sessionName": "session.json",
     "pathimg": "./media/haruka.jpg",
-    "BotKey": "V12",
+    "BotKey": "V2",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
     "autobio": true,
